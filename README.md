@@ -1,5 +1,7 @@
 This is a custom Discord chatbot built in Python for the Hack This Fall 3.0 hackathon (https://hackthisfall.tech/). It was designed to be a helpful companion for participants, directly integrated into the official Hack This Fall Discord server, which boasts a community of over 10,000 hackers.
 
+Meet your ultimate hackathon companion! Our custom Discord bot is designed to keep participants ahead of the game—providing instant access to essential resources, real-time deadline reminders, and one-click project submissions. Plus, it adds a fun twist with random memes to keep the energy high and stress low. Whether you’re coding, collaborating, or just chilling, this bot ensures your Hack This Fall experience is smooth, organized, and unforgettable!
+
 **Features**
 This bot offers a variety of features to assist hackathon participants:
 
